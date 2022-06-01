@@ -17,6 +17,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ninenatthanarong.github.io/Interactive-rating-component/](https://ninenatthanarong.github.io/Interactive-rating-component/)
 ### Author
 - Frontend Mentor - [@NineNatthanarong](https://www.frontendmentor.io/profile/NineNatthanarong)
