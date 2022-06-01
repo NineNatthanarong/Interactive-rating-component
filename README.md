@@ -16,8 +16,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ![](./design/product3.png)
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 ### Author
